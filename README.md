@@ -27,6 +27,7 @@ To run unit-tests, first you must compile SimpleProtocol as described above. The
 
 Should display:
 
+```
 >  Test project SimpleProtocol/build
 >      Start 1: PacketTest
 >  1/4 Test #1: PacketTest .......................   Passed    0.02 sec
@@ -40,6 +41,7 @@ Should display:
 >  100% tests passed, 0 tests failed out of 4
 >
 >  Total Test time (real) =   0.05 sec>Total Test time (real) =   0.10 sec
+```
 
 ## Samples
 
