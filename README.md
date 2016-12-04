@@ -13,11 +13,11 @@ The library is written in C++ but only C functions are exposed making it usable 
 ## Installation and compilation
 SimpleProtocol has been tested on Linux and Windows. The following instructions are for Linux and must be adapted for Windows.
 
-> git clone https://github.com/maxun/SimpleProtocol
-> cd SimpleProtocol
-> mkdir build
-> cmake ..
-> make
+> - git clone https://github.com/maxun/SimpleProtocol
+> - cd SimpleProtocol
+> - mkdir build
+> - cmake ..
+> - make
 
 ## Testing
 
